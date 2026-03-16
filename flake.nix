@@ -19,7 +19,7 @@
         pname = "cli";
         version = "0.0.0-dev";
         src = self;
-        vendorHash = "sha256-wE5GPDNe5p0WrgoO3TupIHDTH+HpyfD5vuzZsuwB80o="; # COMPUTING
+        vendorHash = "sha256-wE5GPDNe5p0WrgoO3TupIHDTH+HpyfD5vuzZsuwB80o=";
       };
 
       devShells.default = pkgs.mkShellNoCC {
